@@ -23,8 +23,6 @@ int main(){
     else
       pos -= number;
 
-    string t = "aggiunto";
-
     if (pos == 0 || pos == 100){
       count++;
       consider = false;

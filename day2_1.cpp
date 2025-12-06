@@ -53,13 +53,5 @@ int main(){
     }
   }
 
-  cout << "\ntot : " << tot << "\n";
-  
-
-  // for (auto &p : intervals)
-    // cout << p.first << " " << p.second << "\n";
-  
-  
-
-  
+  cout << "\ntot : " << tot << "\n";  
 }
